@@ -1,3 +1,21 @@
+## 🤝 Equipo y Contribuciones
+
+Este repositorio corresponde al **Frontend** del proyecto colaborativo **H2O Manager** (original de [@Eduar0705](https://github.com/Eduar0705/h2omanager)), un sistema integral de gestión y punto de venta (ERP/POS) para plantas de recarga y distribución de agua potable.
+
+### 🔗 Recursos del Proyecto
+- **Propuesta de Diseño UI/UX (Figma):** [Ver prototipo inicial en Figma](https://www.figma.com/design/nlTWprmKeubz5lJlKaxo01/Prototipo-H2OManager?node-id=0-1&p=f&t=m62IrE82o4X7CjjO-0)
+- **Repositorio Backend (API):** [api-h2o-manager](https://github.com/Dalpx/api-h2o-manager)
+- **Documentación del Proyecto / API:** [Ver documentación en Google Docs](https://docs.google.com/document/d/1leRalyjhO8xi093IYxyOnxWyIvK1M08yp_zIUkPWuyc/edit?tab=t.0)
+- **Diagrama de Base de Datos:** [Ver modelo relacional en dbdiagram.io](https://dbdiagram.io/d/Proyecto-Contable-6993c4edbd82f5fce2e2d134)
+
+### 💻 Mi aporte en el proyecto — Jesús Camacho ([@JesusCamacho01](https://github.com/JesusCamacho01))
+
+Encargado del **diseño de Interfaces de Usuario (UI/UX) y estructuración funcional** en la etapa inicial del sistema:
+
+- **Prototipado en Figma:** Diseño de la propuesta visual completa, flujos de navegación y arquitectura de pantallas de los módulos operativos y el panel contable ([ver prototipo en Figma](https://www.figma.com/design/nlTWprmKeubz5lJlKaxo01/Prototipo-H2OManager?node-id=0-1&p=f&t=m62IrE82o4X7CjjO-0)), que sirvió como base funcional para definir los requerimientos del frontend (posteriormente implementado sobre una plantilla base por el equipo para agilizar tiempos de entrega).
+- **Definición de módulos:** Estructuración
+
+
 # 💧 H2O Manager - Sistema de Gestión de Botellones
 
 Sistema completo de gestión para distribuidoras de agua purificada en botellones. Desarrollado con React + Vite para ofrecer una experiencia moderna, rápida e intuitiva.
